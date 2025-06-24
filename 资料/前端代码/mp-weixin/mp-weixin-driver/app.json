@@ -36,11 +36,11 @@
   "plugins": {
     "chooseLocation": {
       "version": "1.0.10",
-      "provider": "***"
+      "provider": "wx76a9a06e5b4e693e"
     },
     "WechatSI": {
       "version": "0.0.7",
-      "provider": "***"
+      "provider": "wx069ba97219f66d99"
     }
   },
   "requiredBackgroundModes": [
